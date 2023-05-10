@@ -1,2 +1,2 @@
 # Pruebas
-Modificación de codigos de los diferentes repositorios
+Modificación de códigos de los diferentes repositorios
