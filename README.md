@@ -1,6 +1,6 @@
 # Pruebas
 Modificación de códigos de los diferentes repositorios
 
-** multitask_L ** No contiene la ontología
-** practicas_mtl** Tiene la ontología integrada
-** ontologia_mexican** Contiene la ontología
+**multitask_L.ipynb:** No contiene la ontología
+**practicas_mtl.ipynb:** Tiene la ontología integrada
+**ontologia_mexican.csv:** Contiene la ontología
