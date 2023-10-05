@@ -5,5 +5,4 @@ Modificación de códigos de los diferentes repositorios
 
 **practicas_mtl.ipynb:** Tiene la ontología integrada
 
-**ontologia_mexican.csv:** Contiene la ontología
-
+**ontologia_mexican.csv:** Ontología del modelo
